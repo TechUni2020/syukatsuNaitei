@@ -100,7 +100,7 @@ Vue: チーム開発
 
 ・[企業の技術動画などを視聴する](https://youtu.be/gL_ZPTw_5nQ)
 
-・IR(統合報告書)を読む
+・[IR(統合報告書)を読む](https://www.cyberagent.co.jp/ir/library/)
 
 ・面接官がわかっている時は事前に記事などを読む
 
@@ -122,13 +122,13 @@ Vue: チーム開発
 
 ・Tech.Uniの代表をしていること(Tech.Uni内の実績等も含め)
 
-・社会人勉強会に出席していたこと
+・[社会人勉強会に出席していたこと、主催していたこと](https://web-creator-meetup-in-kansai.connpass.com/)
 
 <h3>伸び代のあるエンジニアである</h3>
 
 ・希少価値を1年で生み出したから
 
-・プログラミング愛が誰よりも高い(GitHubの草 参照)
+・[プログラミング愛が誰よりも高い(GitHubの草 参照)](https://github.com/naruogram)
 
 ・技術記事と本をひたすら読んでいるから
 
