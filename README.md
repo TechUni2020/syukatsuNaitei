@@ -48,7 +48,7 @@ Vue: チーム開発
 
 <h2>就活のために行っていたこと</h2> 
 
-キャリアセレクトという求人サービスの登録 [ここから登録したらアマギフもらえます](https://docs.google.com/forms/d/e/1FAIpQLSeGaZwyjuC1Yr_5VMOVUuZQD6VdNrzgKLNpb2aupmRTdWXmBw/viewform?usp=send_form)
+キャリアセレクトという求人サービスの登録 [ここから登録したらアマギフもらえます](https://docs.google.com/forms/d/e/1FAIpQLSfxPr4e11T6B5SPFMPaFIH4bDzacZaCm6YQ_jhYLQFmN1AJ1A/viewform)
 
 逆求人イベントの参加(キャリアセレクト)
 
